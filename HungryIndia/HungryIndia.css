@@ -50,3 +50,8 @@ a:hover {  text-decoration: underline;
              font-family: "verdana";
              font-size: 10pt;
              font-weight:bold;}
+.radio      {  text-decoration: none;
+             color: black; 
+             font-family: "verdana";
+             font-size: 8pt;
+             font-weight:bold;}
