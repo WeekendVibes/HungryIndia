@@ -1,0 +1,52 @@
+﻿body {  text-decoration: none;
+            color: black;
+            font-family: "verdana";
+            font-size: 10pt;
+            font-weight: none; }
+.title {  text-decoration: bold;
+             color: Green; 
+             font-family: "verdana";
+             font-size: 24pt;
+             font-weight: heavy; }
+.bold {  text-decoration: bold;
+             color: black; 
+             font-family: "verdana,calibri";
+             font-size: 10pt;
+             font-weight: heavy; }
+a:link {  text-decoration: none;
+             color: #0066CC; 
+             font-family: "verdana";
+             font-size: 10pt;
+             font-weight: medium; }
+a:hover {  text-decoration: underline;
+             color: #0066CC; 
+             font-family: "verdana";
+             font-size: 10pt;
+             font-weight: medium; }
+.head  {  color: #000000; 
+             font-family: "verdana";
+             font-size: 35px;
+             margin-top: 35px;
+             margin-left: 28px; }
+.SearchBox{  text-decoration: none;
+             color: black; 
+             font-family: "verdana";
+             font-size: 12pt;
+             font-weight: medium;
+             background-image: url('images/TextBox.jpg');
+             background-repeat:no-repeat;
+             padding-left:15px;
+             padding-top:15px;
+             border: none;
+             width:420px;
+             height:46px; }   
+.text      {  text-decoration: none;
+             color: black; 
+             font-family: "verdana";
+             font-size: 10pt;
+             font-weight: medium;}
+.button      {  text-decoration: none;
+             color: black; 
+             font-family: "verdana";
+             font-size: 10pt;
+             font-weight:bold;}
